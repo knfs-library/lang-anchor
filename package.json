@@ -1,6 +1,6 @@
 {
   "name": "@knfs-tech/lang-anchor",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A mini AI prompt framework. This framework provides a structured way to define AI prompts,manage missions, enforce rules, and format output results.",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",

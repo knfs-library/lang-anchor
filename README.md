@@ -3,7 +3,16 @@
   <br>
 <a href="https://github.com/knfs-library/lang-anchor/actions/workflows/unit-test.yml" alt="github">
 	<img src="https://github.com/knfs-library/lang-anchor/actions/workflows/unit-test.yml/badge.svg" alt="Github Actions" />
-	</a>
+</a>
+<a href="https://img.shields.io/github/license/knfs-library/lang-anchor" alt="License">
+	<img src="https://img.shields.io/github/license/knfs-library/lang-anchor" alt="License" />
+</a>
+<a href="https://img.shields.io/github/contributos/knfs-library/lang-anchor" alt="License">
+	<img src="https://img.shields.io/github/contributors/knfs-library/lang-anchor" alt="License" />
+</a>
+<a href="https://img.shields.io/github/languages/code-size/knfs-library/lang-anchor" alt="License">
+	<img src="https://img.shields.io/github/languages/code-size/knfs-library/lang-anchor" alt="License" />
+</a>
 </p>
 
 <h1> <span style="color:#013C4D;">About</span> <span style="color:#2B7F84;">Lang Anchor</span></h1>
