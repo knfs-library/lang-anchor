@@ -1,7 +1,7 @@
 <p align="center">
 <img width="250" src="https://github.com/knfs-library/lang-anchor/blob/master/docs/images/logo.png?raw=true">
   <br>
-	<a href="https://github.com/knfs-librarylang-anchor/actions"alt="scrutinizer">
+	<a href="https://github.com/knfs-library/lang-anchor/actions"alt="scrutinizer">
 		<img src="https://github.com/knfs-library/lang-anchor/actions" alt="github" />
 	</a>
 </p>
