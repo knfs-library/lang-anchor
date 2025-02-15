@@ -1,0 +1,41 @@
+{
+  "name": "@knfs-tech/lang-anchor",
+  "version": "0.1.1",
+  "description": "A mini AI prompt framework. This framework provides a structured way to define AI prompts,manage missions, enforce rules, and format output results.",
+  "main": "./lib/cjs/index.js",
+  "module": "./lib/esm/index.js",
+  "exports": {
+    ".": "./lib/cjs/index.js",
+    "./esm": "./lib/esm/index.mjs"
+  },
+  "scripts": {
+    "test": "jest --runInBand --force-exit --detectOpenHandles"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knfs-library/repo-name.git"
+  },
+  "keywords": [
+    "knfs",
+    "langchain",
+    "lang-anchor",
+    "prompt",
+    "AI",
+    "AI Agents"
+  ],
+  "author": "Kent Phung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knfs-library/repo-name/issues"
+  },
+  "homepage": "https://github.com/knfs-library/repo-name#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "sinon": "^18.0.0"
+  }
+}
