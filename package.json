@@ -1,6 +1,6 @@
 {
   "name": "@knfs-tech/lang-anchor",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A mini AI prompt framework. This framework provides a structured way to define AI prompts,manage missions, enforce rules, and format output results.",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/knfs-library/repo-name.git"
+    "url": "git+https://github.com/knfs-library/lang-anchor.git"
   },
   "keywords": [
     "knfs",
@@ -29,9 +29,9 @@
   "author": "Kent Phung",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/knfs-library/repo-name/issues"
+    "url": "https://github.com/knfs-library/lang-anchor/issues"
   },
-  "homepage": "https://github.com/knfs-library/repo-name#readme",
+  "homepage": "https://github.com/knfs-library/lang-anchor#readme",
   "dependencies": {
   },
   "devDependencies": {
